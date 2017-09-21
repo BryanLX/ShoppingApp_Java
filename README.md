@@ -1,4 +1,4 @@
-# project
+# Shopping stimulator
 
 Buy(JAVA)   Team Size: 5
 This is a GUI shopping app I did with my teammate in school.
