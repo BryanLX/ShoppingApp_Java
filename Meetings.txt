@@ -1,0 +1,65 @@
+Planning Meeting Minutes
+================================
+Date and time: 2 Aug 2016, 9:30am-10.30
+Location: Bahen
+Current state of the project:
+	-done: Completed Phase II.
+Tasks before next Planning Meeting:
+	-Finish GUI for User Log in, Log out, Register (by Bingzhao Shan)
+	-Finish GUI for show all products (by Yueen Ma, Raymond Liu)
+	-Finish GUI for Administrator add products, add category, add flight route (by Maosong Yue, Bin Liu)
+	-Finish GUI for Shopper add to cart, cancel cart, invoice (by Bingzhao Shan, Yueen Ma)
+
+
+Status Meeting Minutes
+==============================
+Date and time: 3 Aug 2016, 9:30am-10.00
+Location: Bahen
+Current state of the project:
+	Bingzhao Shan: Finished GUI for User Log in, Log out, Register
+	Yueen Ma, Raymond Liu: Finished GUI for show all products and search by category, available quantity and price
+	Maosong Yue, Bin Liu: Finished GUI for Administrator add products, add category, add flight route
+	Bingzhao Shan, Yueen Ma:Finished add to cart, cancel cart, invoice.
+
+Plans to accomplish before next meeting:
+	Bingzhao Shan, Yueen Ma: Finish GUI for shopper checkout, save shoppering cart, see a list of his purchases
+	Maosong Yue, Raymond Liu: Finish GUI for Administrator add distribution center, report category, modify product
+	Bin Liu: Finish new API
+
+
+
+
+Planning Meeting Minutes
+================================
+Date and time: 3 Aug 2016, 9:30pm-10.30pm
+Location: Bahen
+Current state of the project:
+	-done: Finished almost all GUI but we plan to add a new Class Customer, so we need to modify a lot
+Tasks before next Planning Meeting:
+	-Modify customer add to cart (by Bingzhao Shan)
+	-Modify customer cancel cart (by Yueen Ma, Raymond Liu)
+	-Modify customer invoice (by Maosong Yue, Bin Liu)
+	-Modify customer's shopping history (by Bingzhao Shan)
+
+
+Status Meeting Minutes
+==============================
+Date and time: 4 Aug 2016, 11.00am - 12.00pm
+Location: Bahen
+Current state of the project:
+	Bingzhao Shan: Finished GUI customer add to cart
+	Yueen Ma, Raymond Liu: Customer cancel cart
+	Maosong Yue, Bin Liu: Finished GUI customer invoice and finished DocString
+	Bingzhao Shan, Yueen Ma:Finished customer's shopping history and modify CRC
+
+
+Plans to accomplish before next meeting:
+	None, we are done !
+	
+
+
+
+
+
+
+	
